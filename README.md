@@ -6,6 +6,13 @@ I am a backend developer from Argentina
 - 🌱 Always learning and exploring new technologies.
 - 📫 Find me on [LinkedIn]( www.linkedin.com/in/santiago-figliuolo ) for collaborations and opportunities.
 
+
+### About me
+
+Nice to meet you! I'm currently working at No Country as a *Backend Developer*. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
+I've previously worked on GlobMediaCo. as a *Fullstack Developer*
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiasnicolasacevedo&theme=onedark" alt="santiagofigli" /></a> 
 </p>
 <div align="center">
