@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Santiago
+
+I am a backend developer from Argentina
+
+- 💻 Currently working on web development projects and scalable applications.
+- 🌱 Always learning and exploring new technologies.
+- 📫 Find me on [LinkedIn](www.linkedin.com/in/santiago-figliuolo) for collaborations and opportunities.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiasnicolasacevedo&theme=onedark" alt="santiagofigli" /></a> 
 </p>
