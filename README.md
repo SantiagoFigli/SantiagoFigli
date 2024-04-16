@@ -1,4 +1,4 @@
-### Hi there 👋, I am Santiago
+### Hi there 👋, Nice to meet you! I am Santiago
 
 I am a backend developer from Argentina
 
@@ -9,7 +9,7 @@ I am a backend developer from Argentina
 
 ### About me
 
-Nice to meet you! I'm currently working at No Country as a *Backend Developer*. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
+I'm currently working at No Country as a *Backend Developer*. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
 I've previously worked on GlobMediaCo. as a *Fullstack Developer*
 
 
