@@ -9,8 +9,8 @@ I am a backend developer from Argentina
 
 ### About me
 
-I'm currently working at No Country as a *Backend Developer*. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
-I've previously worked in 2022 on GlobMediaCo. as a *Fullstack Developer*.
+I'm currently working at GlobeMediaCo. as a *Backend Developer* since 2022. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiasnicolasacevedo&theme=onedark" alt="santiagofigli" /></a> 
