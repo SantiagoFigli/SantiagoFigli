@@ -1,6 +1,6 @@
 ### Hi there 👋, Nice to meet you! I am Santiago
 
-I am a backend developer from Argentina
+I am a backend developer from Mallorca, Spain.
 
 - 💻 Currently working on web development projects and scalable applications.
 - 🌱 Always learning and exploring new technologies.
