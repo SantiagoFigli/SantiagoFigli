@@ -9,7 +9,7 @@ I am a backend developer from Argentina
 
 ### About me
 
-I'm currently working at GlobeMediaCo. as a *Backend Developer* since 2022. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
+I'm currently working at GlobeMediaCo. as a *Backend Developer* since  Dec 2023. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
 
 
 
