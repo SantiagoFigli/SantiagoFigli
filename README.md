@@ -1,6 +1,6 @@
 ### Hi there 👋, Nice to meet you! I am Santiago
 
-I am a backend developer from Mallorca, Spain.
+I am a backend developer from Mar del Plata, Argentina.
 
 - 💻 Currently working on web development projects and scalable applications.
 - 🌱 Always learning and exploring new technologies.
@@ -9,8 +9,7 @@ I am a backend developer from Mallorca, Spain.
 
 ### About me
 
-I'm currently working at GlobeMediaCo. as a *Backend Developer* since  Dec 2023. I recently graduated from the *National Technological University* Dev Degree program in December 2023.
-
+I am currently working at Accenture® as a *Backend .NET Developer* since April 2025. I worked as a Fullstack at GlobeMediaCo® from December 2023 to March 2025. I graduated from the *National Technological University* degree program in December 2023.
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiasnicolasacevedo&theme=onedark" alt="santiagofigli" /></a> 
